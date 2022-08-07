@@ -1,0 +1,38 @@
+{
+    "name": "loway",
+    "description": "loway",
+    "keywords": ["loway"],
+    "env": {
+        "AA": {
+            "description": "modify AUUID then Deploy",
+            "value": "check and try"
+        },
+        "AUUID": {
+            "description": "UUID",
+            "value": "22234324233-7a83229-45f36-85338c-3424225242424"
+        },
+        "CADDYIndexPage": {
+            "description": "view page",
+            "value": "https://github.com/"
+        },
+        "CONFIGCADDY": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/xyz/123/main/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/xyz/123/main/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/xyz/123/main/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/xyz/123",
+    "repository": "https://github.com/xyz/123",
+    "stack": "container"
+}
